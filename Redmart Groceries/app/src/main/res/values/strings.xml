@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Redmart Groceries</string>
+
+    <string name="price">$ %s</string>
+    <string name="save">Save : $ %s</string>
+    <string name="name">Name : %s</string>
+    <string name="info">Info : %s</string>
+    <string name="product_life">Expires : %1$s %2$s</string>
+    <string name="origin">Origin : %s</string>
+    <string name="measure">Measure : %s</string>
+    <string name="is_adult">Adult : %s</string>
+    <string name="promotion">%s</string>
+    <string name="popularity">Popularity : %s</string>
+    <string name="image_url">http://media.redmart.com/newmedia/200p%s</string>
+    <string name="error_message">Unexpected Error ! Try Again</string>
+</resources>

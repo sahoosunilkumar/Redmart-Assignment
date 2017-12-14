@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+                                                                   
+
+    
+
+                 
+                          
+                                                                
+
+                                           
+           
+
+    <android.support.v4.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" android:tag="layout/activity_product_detail_0" xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/activity_horizontal_margin"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/icon"
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:layout_alignParentStart="true"
+                android:layout_centerVertical="true"
+                android:layout_marginBottom="@dimen/activity_vertical_margin" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_toEndOf="@+id/icon"
+                android:orientation="vertical">
+
+                <TextView
+                    style="@style/UserInfo.Header"
+                    android:tag="binding_1"                                      />
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <TextView
+                        android:id="@+id/promoPrice"
+                        style="@style/UserInfo.Price"
+                        android:layout_alignParentStart="true"
+                        android:tag="binding_2"                                                                                                              />
+
+                    <TextView
+                        style="@style/UserInfo.Text"
+                        android:layout_toEndOf="@id/promoPrice"
+                        android:tag="binding_3"                                              
+                                                                                                             />
+
+                    <TextView
+                        style="@style/UserInfo.Price"
+                        android:layout_alignParentEnd="true"
+                        android:tag="binding_4"                                                     
+                                                                                                             />
+                </RelativeLayout>
+
+                <TextView
+                    style="@style/UserInfo.Promotion"
+                    android:tag="binding_5"                                               
+                                                                                                                                             />
+
+                <TextView
+                    style="@style/UserInfo.Text"
+                    android:tag="binding_6"                                                                                    
+                                                                                                        />
+
+                <TextView
+                    style="@style/UserInfo.Text"
+                    android:tag="binding_7"                                                  
+                                                                                                       />
+
+                <TextView
+                    style="@style/UserInfo.Text"
+                    android:tag="binding_8"                                                          />
+
+                <TextView
+                    style="@style/UserInfo.Text"
+                    android:tag="binding_9"                                     />
+
+            </LinearLayout>
+
+        </LinearLayout>
+    </android.support.v4.widget.NestedScrollView>
+         

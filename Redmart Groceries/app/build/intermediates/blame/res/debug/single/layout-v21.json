@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/sunilkumarsahoo/Desktop/Redmart Assignment/Redmart Groceries/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/sunilkumarsahoo/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/17357972ef6343b05586385345763eed/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/sunilkumarsahoo/Desktop/Redmart Assignment/Redmart Groceries/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/sunilkumarsahoo/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/17357972ef6343b05586385345763eed/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/sunilkumarsahoo/Desktop/Redmart Assignment/Redmart Groceries/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/sunilkumarsahoo/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/17357972ef6343b05586385345763eed/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/sunilkumarsahoo/Desktop/Redmart Assignment/Redmart Groceries/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/sunilkumarsahoo/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/17357972ef6343b05586385345763eed/res/layout-v21/notification_action_tombstone.xml"
+    }
+]
